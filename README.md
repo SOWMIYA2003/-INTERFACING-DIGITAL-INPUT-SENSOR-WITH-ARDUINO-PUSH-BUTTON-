@@ -59,7 +59,6 @@ FIGURE-02
 
 ## PROGRAM 
  
- 
 ```
 int led=3;
 int pushbutton=4;
@@ -90,19 +89,6 @@ void loop()
 }
 ```
 
-
-
-
-
-
-
-
- 
- 
- 
-
-
-
 ## OUTPUT OF SIMULATION :
 
 ### OFF Condition
@@ -110,3 +96,6 @@ void loop()
 ### On Condition
 ![op](./ROB4.png)
 
+## RESULT : 
+
+Thus the activation of LED upon pressing the push button and deactivation of LED when it is not pressed is successfully implemented.
